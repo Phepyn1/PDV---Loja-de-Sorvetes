@@ -52,8 +52,5 @@ O sistema foi projetado para uso em tablets, com uma interface intuitiva e organ
 
 ---
 
-## 📬 Entre em Contato
 
-Este projeto faz parte do meu portfólio profissional.  
-Se quiser saber mais, entre em contato comigo pelo [LinkedIn](https://www.linkedin.com/) ou [e-mail](mailto:seuemail@exemplo.com).
 
